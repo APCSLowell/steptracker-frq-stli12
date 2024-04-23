@@ -14,7 +14,7 @@ activeDaysNum = 0;
    activeDaysNum++;
   
   days++;
-  steps += dailySteps
+  steps += dailySteps;
  }
 public int activeDays(){
   return activeDaysNum;
